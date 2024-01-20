@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iSangeet Music Player</string>
+    <string name="welcome_to_isangeet">Welcome To iSangeet</string>
+    <string name="textview">TextView</string>
+</resources>
